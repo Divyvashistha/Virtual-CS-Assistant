@@ -1,0 +1,9 @@
+streamlit
+requests
+ollama
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+pypdf
+sentence-transformers

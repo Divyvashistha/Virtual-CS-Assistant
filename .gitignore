@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Generated outputs
+ outputs/
+
+# Virtual environments
+venv/
+.env/
+
+# Environment variables
+.env
+
+# Vector store (can be rebuilt)
+vector_store/
+
+# Large model files
+*.bin
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
